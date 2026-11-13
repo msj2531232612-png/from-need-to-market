@@ -86,7 +86,7 @@ python skills/from-need-to-market/scripts/validate_research_output.py examples/w
 
 ## 许可证
 
-本仓库尚未选定许可证。在添加许可证之前，默认保留所有权利，他人不能合法地复制或修改。
+MIT lisence
 
 ## 参考
 
