@@ -1,0 +1,11 @@
+{
+  "name": "from-need-to-market",
+  "version": "0.2.0",
+  "description": "把一句模糊的 B2B 软件需求调研成候选市场、已有产品、带来源的证据和可执行的验证方案。Turn a vague B2B software need into candidate markets, existing products, sourced evidence and a validation plan.",
+  "author": {
+    "name": "msj2531232612-png"
+  },
+  "homepage": "https://github.com/msj2531232612-png/from-need-to-market",
+  "repository": "https://github.com/msj2531232612-png/from-need-to-market",
+  "keywords": ["market-research", "b2b", "product-discovery", "competitor-analysis", "validation"]
+}

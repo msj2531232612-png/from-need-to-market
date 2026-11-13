@@ -1,0 +1,9 @@
+# 调研成果可能包含客户信息，默认不提交
+outputs/
+# 本地评测与打包产物
+*-workspace/
+*.plugin
+*.skill
+__pycache__/
+*.pyc
+.DS_Store

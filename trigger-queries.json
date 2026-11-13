@@ -1,0 +1,22 @@
+[
+  {"query": "我们做外贸的，业务员每天把 WhatsApp 上的询盘手动敲进 Excel 再做报价单，特别烦。有没有人已经做了这种工具？我想知道这算哪个市场", "should_trigger": true},
+  {"query": "想做一个帮连锁牙科诊所自动回访患者的 SaaS，先帮我看看有没有类似产品、客户现在都怎么解决的", "should_trigger": true},
+  {"query": "i keep hearing from construction subcontractors that they retype change orders from email into procore by hand. is there a market for fixing this? who already does it?", "should_trigger": true},
+  {"query": "帮我验证一个想法：给跨境电商卖家做多平台差评自动汇总和工单分派。值不值得做，下一步该怎么验证", "should_trigger": true},
+  {"query": "请读取 outputs/2026-11-12-外贸报价/ 这个成果目录，执行下一步并记录结果", "should_trigger": true},
+  {"query": "our ops team at a 40-person freight forwarder wastes hours reconciling carrier invoices against quotes. before we build something internal, find existing products and tell me what to check first", "should_trigger": true},
+  {"query": "老板让我调研一下“律所合同审阅助手”这个方向，要竞品、证据来源，还要一个能交给同事继续做的行动方案", "should_trigger": true},
+  {"query": "A01 我已经访谈了三家批发商，记录在 notes.md 里。接着之前那套调研往下做 A02 吧", "should_trigger": true},
+  {"query": "有个需求不知道怎么搜：小工厂的质检员用纸质表单记不良品，月底再人工汇总。这种需求在软件市场里叫什么品类？", "should_trigger": true},
+  {"query": "how would I validate a B2B idea for automating supplier onboarding paperwork for mid-size manufacturers? need competitors + a plan, save it to files", "should_trigger": true},
+  {"query": "帮我算一下中国 CRM SaaS 市场 2026 年的规模和年复合增长率，做成一页 PPT 用的数据", "should_trigger": false},
+  {"query": "我已经决定做 WhatsApp 询盘转报价工具了，帮我用 Node.js 写一个接收 webhook 并解析消息的服务", "should_trigger": false},
+  {"query": "给我们的 B2B 报价软件写三条 LinkedIn 推广文案，突出节省时间", "should_trigger": false},
+  {"query": "想开一家精品咖啡店，帮我调研一下我们区的竞争对手和客流", "should_trigger": false},
+  {"query": "compare HubSpot vs Salesforce vs Pipedrive pricing for a 15 person sales team, we just need to pick one this week", "should_trigger": false},
+  {"query": "帮我把这份竞品分析的 Excel 整理一下，按价格排序再加一列每用户月成本", "should_trigger": false},
+  {"query": "我想做一款面向大学生的背单词 App，帮我想十个有记忆点的名字", "should_trigger": false},
+  {"query": "write a PRD for the quote-approval feature we already scoped, here's the outline from last sprint", "should_trigger": false},
+  {"query": "解释一下 TAM、SAM、SOM 的区别，举个 SaaS 的例子", "should_trigger": false},
+  {"query": "帮我看看这只做企业软件的股票最近的财报，值不值得买", "should_trigger": false}
+]

@@ -1,0 +1,13 @@
+{
+  "name": "from-need-to-market",
+  "owner": {
+    "name": "msj2531232612-png"
+  },
+  "plugins": [
+    {
+      "name": "from-need-to-market",
+      "source": "./",
+      "description": "把一句模糊的 B2B 软件需求调研成候选市场、已有产品、带来源的证据和可执行的验证方案。"
+    }
+  ]
+}
